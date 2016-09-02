@@ -1,0 +1,23 @@
+--------------------------------------------------------------
+@Dillworth84
+
+
+--------------------------------------------------------------
+Feeling gratitude and not expressing it is like wrapping a present and not giving it.
+
+
+Assumed location: Feeling
+Actual location: Freeling
+Edit distance: 1
+
+
+Assumed location: gratitude
+Actual location: Gratitude
+Edit distance: 1
+
+
+Assumed location: Feeling
+Actual location: Keeling
+Edit distance: 1
+
+

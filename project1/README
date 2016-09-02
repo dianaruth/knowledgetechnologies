@@ -1,0 +1,26 @@
+COMP30018 Knowledge Technologies
+Project 1
+Diana Ruth
+project1.py
+
+The purpose of this Python 3 software system is to correctly identify misspelled locations in tweets using a list of accepted locations. This system employs global edit distance, specifically Levenshtein distance, to compute a distance. If two strings are too dissimilar, they will not be considered to be locations. It compares every tweet to every location, comparing multi-word locations to phrases from the tweet with the same number of words. It also ignores words in the tweet that contain special characters or digits, because words containing these characters are unlikely to be locations. 
+
+The basic algorithm is as follows:
+
+create an array containing all tweets
+create an array containing all locations
+for every tweet :
+	for every word in the tweet :
+		add word to list of acceptable words if the word does not contain any special characters or numbers or ends in a special character but has no others (considered punctuation)
+	for every location :
+		compute global edit distance between the location and the phrase with the same number of words as the location (e.g. if the location has two words, compare to the first and second word, then the second and third word, and so on)
+		if the edit distance is within the acceptable threshold based on the length of the shortest string :
+			report phrase as a misspelled location
+
+This system uses the editdistance package for Python to compute edit distances between phrases and locations, which can be found at https://pypi.python.org/pypi/editdistance. This package allowed the program to run much faster than the manual algorithm I created initially.
+
+To run the program :
+
+$ python3 project1.py <name of locations file>.txt <name of tweet file>.txt
+
+NOTE: Must be run with Python 3. Python 2 will not work correctly.

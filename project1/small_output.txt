@@ -1,0 +1,1111 @@
+--------------------------------------------------------------
+@Dillworth84
+
+
+--------------------------------------------------------------
+Feeling gratitude and not expressing it is like wrapping a present and not giving it.
+
+
+Assumed location: Feeling
+Actual location: Freeling
+Edit distance: 1
+
+
+Assumed location: gratitude
+Actual location: Gratitude
+Edit distance: 1
+
+
+Assumed location: Feeling
+Actual location: Keeling
+Edit distance: 1
+
+
+--------------------------------------------------------------
+My podcast is the best shit you dont know exists.
+
+
+--------------------------------------------------------------
+RT @thedailybeast
+
+
+--------------------------------------------------------------
+Faith is to believe what you do not see; the reward of this faith is to see what you believe.
+
+
+Assumed location: reward
+Actual location: Deward
+Edit distance: 1
+
+
+Assumed location: Faith
+Actual location: Faith
+Edit distance: 0
+
+
+Assumed location: reward
+Actual location: Reward
+Edit distance: 1
+
+
+Assumed location: reward
+Actual location: Seward
+Edit distance: 1
+
+
+--------------------------------------------------------------
+FOLLOW FRIDAY @977music  @acerax  @FourCornersTS  @music_business @
+
+
+--------------------------------------------------------------
+It is time for something good to happen! Have you said Hello today?
+
+
+Assumed location: happen
+Actual location: Tappen
+Edit distance: 1
+
+
+--------------------------------------------------------------
+New from WTC: Film review: &#39;Best Worst Movie&#39; - (Movies in Toto ):
+
+
+Assumed location: New
+Actual location: New
+Edit distance: 0
+
+
+Assumed location: Toto
+Actual location: Toto
+Edit distance: 0
+
+
+--------------------------------------------------------------
+Uptown Comedy Corner - Atlanta - 404.881.0200
+
+
+Assumed location: Atlanta
+Actual location: Atlanta
+Edit distance: 0
+
+
+Assumed location: Corner
+Actual location: Conner
+Edit distance: 1
+
+
+Assumed location: Corner
+Actual location: Corder
+Edit distance: 1
+
+
+Assumed location: Corner
+Actual location: Corner
+Edit distance: 0
+
+
+Assumed location: Corner
+Actual location: Corners
+Edit distance: 1
+
+
+Assumed location: Corner
+Actual location: Cornet
+Edit distance: 1
+
+
+Assumed location: Corner
+Actual location: Cornor
+Edit distance: 1
+
+
+Assumed location: Corner
+Actual location: Cortner
+Edit distance: 1
+
+
+Assumed location: Corner
+Actual location: Horner
+Edit distance: 1
+
+
+Assumed location: Uptown
+Actual location: Uptown
+Edit distance: 0
+
+
+--------------------------------------------------------------
+Just left New Haven, CT!
+
+
+Assumed location: Haven
+Actual location: Haven
+Edit distance: 0
+
+
+Assumed location: New
+Actual location: New
+Edit distance: 0
+
+
+Assumed location: New Haven
+Actual location: New Haven
+Edit distance: 0
+
+
+--------------------------------------------------------------
+Money-money-money
+
+
+--------------------------------------------------------------
+HighDensity Garden To Provide Your Family With Fresh Wholesome And TastyVegetables.
+
+
+Assumed location: Garden
+Actual location: Barden
+Edit distance: 1
+
+
+Assumed location: Garden
+Actual location: Carden
+Edit distance: 1
+
+
+Assumed location: Garden
+Actual location: Darden
+Edit distance: 1
+
+
+Assumed location: Garden
+Actual location: Garden
+Edit distance: 0
+
+
+Assumed location: Garden
+Actual location: Gardena
+Edit distance: 1
+
+
+Assumed location: Garden
+Actual location: Garten
+Edit distance: 1
+
+
+Assumed location: Garden
+Actual location: Rarden
+Edit distance: 1
+
+
+Assumed location: Garden
+Actual location: Varden
+Edit distance: 1
+
+
+Assumed location: Garden
+Actual location: Warden
+Edit distance: 1
+
+
+--------------------------------------------------------------
+Scott Douglass  Archive - The Champ ASKS The Questions
+
+
+Assumed location: Archive
+Actual location: Archie
+Edit distance: 1
+
+
+Assumed location: Champ
+Actual location: Champ
+Edit distance: 0
+
+
+Assumed location: Douglass
+Actual location: Douglas
+Edit distance: 1
+
+
+Assumed location: Douglass
+Actual location: Douglass
+Edit distance: 0
+
+
+Assumed location: Scott
+Actual location: Scott
+Edit distance: 0
+
+
+--------------------------------------------------------------
+2009-11-16 18:04:10
+
+
+--------------------------------------------------------------
+RT @thejobsguy: top recruiter pet peeves ...
+
+
+Assumed location: peeves
+Actual location: Reeves
+Edit distance: 1
+
+
+--------------------------------------------------------------
+BREAKING NEWS: Fire at Bowler in Fargo:
+
+
+Assumed location: Bowler
+Actual location: Bosler
+Edit distance: 1
+
+
+Assumed location: Bowler
+Actual location: Bowlder
+Edit distance: 1
+
+
+Assumed location: Bowler
+Actual location: Bowler
+Edit distance: 0
+
+
+Assumed location: Bowler
+Actual location: Bowles
+Edit distance: 1
+
+
+Assumed location: Bowler
+Actual location: Bowser
+Edit distance: 1
+
+
+Assumed location: Bowler
+Actual location: Bowyer
+Edit distance: 1
+
+
+Assumed location: Bowler
+Actual location: Fowler
+Edit distance: 1
+
+
+--------------------------------------------------------------
+RT@mmWine RT@cristnabls
+
+
+--------------------------------------------------------------
+Crazy! What are the odds? http://bit.ly/c2Y3d
+
+
+--------------------------------------------------------------
+Thanks to Bluffton H.S. for our look at a Principal's job up close. Here's the story from the student paper,The Comet
+
+
+Assumed location: Bluffton
+Actual location: Bluffton
+Edit distance: 0
+
+
+Assumed location: Comet
+Actual location: Comet
+Edit distance: 0
+
+
+Assumed location: Thanks
+Actual location: Shanks
+Edit distance: 1
+
+
+--------------------------------------------------------------
+Love Jeter: Derek Jeter: Driven, Warm Cedarwood - Basenotes: Derek Jeter: Driven, Warm Ce.. http://bit.ly/VSytr
+
+
+Assumed location: Cedarwood
+Actual location: Cedarwood
+Edit distance: 0
+
+
+Assumed location: Driven
+Actual location: Driver
+Edit distance: 1
+
+
+Assumed location: Driven
+Actual location: Driver
+Edit distance: 1
+
+
+Assumed location: Love
+Actual location: Love
+Edit distance: 0
+
+
+--------------------------------------------------------------
+and more good news for Palo Alto...Tesla Motors is coming to town.  I love it!
+
+
+Assumed location: Palo
+Actual location: Palo
+Edit distance: 0
+
+
+--------------------------------------------------------------
+Incanto Restaurant && Wine Bar - RT @tanyamelillo:
+
+
+Assumed location: Incanto
+Actual location: Encanto
+Edit distance: 1
+
+
+Assumed location: Wine Bar
+Actual location: Pine Bar
+Edit distance: 1
+
+
+Assumed location: Incanto Restaurant
+Actual location: Salento Restaurant
+Edit distance: 4
+
+
+--------------------------------------------------------------
+G2E opens today at convention center with star-studded guest list http://bit.ly/4k102q
+
+
+Assumed location: center
+Actual location: Center
+Edit distance: 1
+
+
+Assumed location: convention center
+Actual location: Connection Center
+Edit distance: 4
+
+
+Assumed location: center
+Actual location: Fenter
+Edit distance: 1
+
+
+Assumed location: center
+Actual location: Senter
+Edit distance: 1
+
+
+Assumed location: center
+Actual location: Venter
+Edit distance: 1
+
+
+--------------------------------------------------------------
+My daughter is home from camp!  I missed her like crazy!
+
+
+Assumed location: camp I
+Actual location: Camp I
+Edit distance: 1
+
+
+--------------------------------------------------------------
+Bad Boy (1939)- Directed by: Herbert Meyer (Full Movie)
+
+
+Assumed location: Herbert
+Actual location: Harbert
+Edit distance: 1
+
+
+Assumed location: Herbert
+Actual location: Hebert
+Edit distance: 1
+
+
+Assumed location: Herbert
+Actual location: Herbert
+Edit distance: 0
+
+
+Assumed location: Herbert
+Actual location: Herberts
+Edit distance: 1
+
+
+Assumed location: Meyer
+Actual location: Meyer
+Edit distance: 0
+
+
+--------------------------------------------------------------
+Registered Nurse - NICU - TotalMed Staffing - Little Rock, AR: --Description--
+
+
+Assumed location: Little Rock
+Actual location: Battle Rock
+Edit distance: 2
+
+
+Assumed location: Little
+Actual location: Bittle
+Edit distance: 1
+
+
+Assumed location: Little Rock
+Actual location: Bottle Rock
+Edit distance: 2
+
+
+Assumed location: Little Rock
+Actual location: Kettle Rock
+Edit distance: 2
+
+
+Assumed location: Little
+Actual location: Kittle
+Edit distance: 1
+
+
+Assumed location: Little
+Actual location: Little
+Edit distance: 0
+
+
+Assumed location: Little Rock
+Actual location: Little Buck
+Edit distance: 2
+
+
+Assumed location: Little Rock
+Actual location: Little Duck
+Edit distance: 2
+
+
+Assumed location: Little Rock
+Actual location: Little Flock
+Edit distance: 2
+
+
+Assumed location: Little Rock
+Actual location: Little Fork
+Edit distance: 2
+
+
+Assumed location: Little Rock
+Actual location: Little Lick
+Edit distance: 2
+
+
+Assumed location: Little Rock
+Actual location: Little Neck
+Edit distance: 2
+
+
+Assumed location: Little Rock
+Actual location: Little Rock
+Edit distance: 0
+
+
+Assumed location: Little Rock
+Actual location: Little Rocky
+Edit distance: 1
+
+
+Assumed location: Little Rock
+Actual location: Little Rome
+Edit distance: 2
+
+
+Assumed location: Little Rock
+Actual location: Little Rose
+Edit distance: 2
+
+
+Assumed location: Little
+Actual location: Littles
+Edit distance: 1
+
+
+Assumed location: Little Rock
+Actual location: Little York
+Edit distance: 2
+
+
+Assumed location: Rock
+Actual location: Rock
+Edit distance: 0
+
+
+--------------------------------------------------------------
+Kandi Burruss Opens ‘TAGS’ Boutique in Atlanta
+
+
+Assumed location: Atlanta
+Actual location: Atlanta
+Edit distance: 0
+
+
+Assumed location: Burruss
+Actual location: Burress
+Edit distance: 1
+
+
+--------------------------------------------------------------
+RT @muenchner_kindl
+
+
+--------------------------------------------------------------
+Listed on Artfire Set of 5 Tags - Black and White Dotted on Pink (USD $1.00):
+
+
+Assumed location: Black
+Actual location: Black
+Edit distance: 0
+
+
+Assumed location: Dotted
+Actual location: Dotter
+Edit distance: 1
+
+
+Assumed location: Pink
+Actual location: Pink
+Edit distance: 0
+
+
+Assumed location: White
+Actual location: White
+Edit distance: 0
+
+
+--------------------------------------------------------------
+#TINCAPS Historic night in memorable season:
+
+
+--------------------------------------------------------------
+The woman rocks!
+
+
+--------------------------------------------------------------
+Pleasure P Responds To The Molestation Allegations:
+
+
+--------------------------------------------------------------
+Cambridge Jobs Mechanical engineer (Cambridge - Ontario):
+
+
+Assumed location: Cambridge
+Actual location: Cambridge
+Edit distance: 0
+
+
+Assumed location: Jobs
+Actual location: Jobs
+Edit distance: 0
+
+
+Assumed location: Cambridge
+Actual location: Kambridge
+Edit distance: 1
+
+
+Assumed location: Mechanical engineer
+Actual location: Mechanical Engineering
+Edit distance: 4
+
+
+--------------------------------------------------------------
+Hot blondie in Olive Green Jeep - m4w (South Pasadena) 22yr: This is to that hot blondie that we were t.. http://bit.ly/1arByr
+
+
+Assumed location: Green
+Actual location: Green
+Edit distance: 0
+
+
+Assumed location: Olive
+Actual location: Olive
+Edit distance: 0
+
+
+Assumed location: Olive Green
+Actual location: Olive Creek
+Edit distance: 2
+
+
+Assumed location: Olive Green
+Actual location: Olive Green
+Edit distance: 0
+
+
+Assumed location: Olive Green Jeep
+Actual location: Olive Green Creek
+Edit distance: 3
+
+
+Assumed location: Pasadena
+Actual location: Pasadena
+Edit distance: 0
+
+
+--------------------------------------------------------------
+Lindsey Gramnesty in Bed With George Soros
+
+
+Assumed location: George
+Actual location: George
+Edit distance: 0
+
+
+Assumed location: George
+Actual location: Georges
+Edit distance: 1
+
+
+Assumed location: Lindsey
+Actual location: Lindley
+Edit distance: 1
+
+
+Assumed location: Lindsey
+Actual location: Lindsay
+Edit distance: 1
+
+
+Assumed location: Lindsey
+Actual location: Lindsey
+Edit distance: 0
+
+
+--------------------------------------------------------------
+Larry Watson early customs:
+
+
+Assumed location: Watson
+Actual location: Batson
+Edit distance: 1
+
+
+Assumed location: Watson
+Actual location: Matson
+Edit distance: 1
+
+
+Assumed location: Watson
+Actual location: Wasson
+Edit distance: 1
+
+
+Assumed location: Watson
+Actual location: Watson
+Edit distance: 0
+
+
+Assumed location: Watson
+Actual location: Watton
+Edit distance: 1
+
+
+--------------------------------------------------------------
+What's
+
+
+--------------------------------------------------------------
+Me and my woman....date night!  WOW...she is fine!
+
+
+--------------------------------------------------------------
+RT @ExileRadio
+
+
+--------------------------------------------------------------
+Waiting for Him to Call
+
+
+Assumed location: Call
+Actual location: Call
+Edit distance: 0
+
+
+Assumed location: Waiting
+Actual location: Whiting
+Edit distance: 1
+
+
+--------------------------------------------------------------
+On Mad Money: Dow +127, get Jim's pin action plays. Plus can JCG have you dressed for success? And JAH's CEO. CNBC@11p
+
+
+Assumed location: Dow
+Actual location: Dow
+Edit distance: 0
+
+
+Assumed location: Money
+Actual location: Money
+Edit distance: 0
+
+
+Assumed location: success
+Actual location: Success
+Edit distance: 1
+
+
+--------------------------------------------------------------
+@dinomas ME! http://bit.ly/3iOXCE
+
+
+--------------------------------------------------------------
+JUST ADDED -
+
+
+--------------------------------------------------------------
+RT @Soshable Mortified in Real-Time (Comic):
+
+
+--------------------------------------------------------------
+New X58 BIOS's Posted:
+
+
+Assumed location: New
+Actual location: New
+Edit distance: 0
+
+
+--------------------------------------------------------------
+Ladies Night Out and Susan G Komen
+
+
+Assumed location: Night
+Actual location: Night
+Edit distance: 0
+
+
+Assumed location: Susan
+Actual location: Susan
+Edit distance: 0
+
+
+--------------------------------------------------------------
+Assisted Living NJ Occupational Therapist - Edison area SNF and Assisted Li.. http://bit.ly/4F4svy
+
+
+Assumed location: Edison
+Actual location: Edison
+Edit distance: 0
+
+
+Assumed location: Edison
+Actual location: Emison
+Edit distance: 1
+
+
+Assumed location: Living
+Actual location: Loving
+Edit distance: 1
+
+
+--------------------------------------------------------------
+Times ARE tough when you lose the MC. Now they know how Hammer felt.
+
+
+Assumed location: Hammer
+Actual location: Hamler
+Edit distance: 1
+
+
+Assumed location: Hammer
+Actual location: Hammel
+Edit distance: 1
+
+
+Assumed location: Hammer
+Actual location: Hammer
+Edit distance: 0
+
+
+Assumed location: Hammer
+Actual location: Hamner
+Edit distance: 1
+
+
+--------------------------------------------------------------
+I love it when a small
+
+
+--------------------------------------------------------------
+Help the economy! Sell-ur-products online. FREE twitter listings!
+
+
+Assumed location: economy
+Actual location: Economy
+Edit distance: 1
+
+
+--------------------------------------------------------------
+Push For MLB Postseason – Sportsbook
+
+
+Assumed location: Push
+Actual location: Push
+Edit distance: 0
+
+
+--------------------------------------------------------------
+New #Bargain: Sony BDP-CX960 400 Disc Blu-ray Disc Player:
+
+
+Assumed location: New
+Actual location: New
+Edit distance: 0
+
+
+Assumed location: Player:
+Actual location: Player
+Edit distance: 1
+
+
+Assumed location: Player:
+Actual location: Players
+Edit distance: 1
+
+
+--------------------------------------------------------------
+Vintage Nettie Rosenstein sterling harp pin from the forties
+
+
+Assumed location: Nettie
+Actual location: Bettie
+Edit distance: 1
+
+
+Assumed location: Nettie
+Actual location: Hettie
+Edit distance: 1
+
+
+Assumed location: Nettie
+Actual location: Nettie
+Edit distance: 0
+
+
+Assumed location: sterling
+Actual location: Sterling
+Edit distance: 1
+
+
+Assumed location: Vintage
+Actual location: Vantage
+Edit distance: 1
+
+
+Assumed location: Vintage
+Actual location: Vintage
+Edit distance: 0
+
+
+--------------------------------------------------------------
+It's A Cold Morning In Vegas!! Grand Opening of "The Mandarin Orient"
+
+
+Assumed location: Morning
+Actual location: Corning
+Edit distance: 1
+
+
+Assumed location: Morning
+Actual location: Horning
+Edit distance: 1
+
+
+Assumed location: Mandarin
+Actual location: Mandarin
+Edit distance: 0
+
+
+Assumed location: Mandarin Orient"
+Actual location: Mandarin Oriental
+Edit distance: 2
+
+
+Assumed location: Orient"
+Actual location: Orient
+Edit distance: 1
+
+
+Assumed location: Orient"
+Actual location: Orienta
+Edit distance: 1
+
+
+--------------------------------------------------------------
+@markhoppus @trvsbrkr http://bit.ly/DhzZR
+
+
+--------------------------------------------------------------
+RT @OH10x
+
+
+--------------------------------------------------------------
+Home Buying for Young People: Plan Ahead!
+
+
+Assumed location: Home
+Actual location: Home
+Edit distance: 0
+
+
+Assumed location: People
+Actual location: Peoples
+Edit distance: 1
+
+
+Assumed location: People
+Actual location: Pepple
+Edit distance: 1
+
+
+Assumed location: Young
+Actual location: Young
+Edit distance: 0
+
+
+--------------------------------------------------------------
+*COOL TRAILERS*
+
+
+--------------------------------------------------------------
+Right Way to Approach the Citi Mortgage Loss Mitigation Department
+
+
+Assumed location: Right
+Actual location: Right
+Edit distance: 0
+
+
+Assumed location: Way
+Actual location: Way
+Edit distance: 0
+
+
+--------------------------------------------------------------
+RT @RainerAdaire
+
+
+--------------------------------------------------------------
+Brendan Smith: Will Climate Protection Legislation Protect Workers ...: Advocates can use a worker-f.. http://bit.ly/SW7xa
+
+
+Assumed location: Brendan
+Actual location: Brenda
+Edit distance: 1
+
+
+Assumed location: Brendan
+Actual location: Brennan
+Edit distance: 1
+
+
+Assumed location: Protection
+Actual location: Protection
+Edit distance: 0
+
+
+Assumed location: Smith
+Actual location: Smith
+Edit distance: 0
+
+
+Assumed location: Smith Will
+Actual location: Smith Hill
+Edit distance: 1
+
+
+Assumed location: Smith Will
+Actual location: Smith Mill
+Edit distance: 1
+
+
+Assumed location: Smith Will
+Actual location: Smith Well
+Edit distance: 1
+
+
+--------------------------------------------------------------
+Tke my challenge:  150 Paid Active TeamMembers in 10 days or I pay you $500.00   http://dallastxmandura.com
+
+
+Assumed location: Active
+Actual location: Active
+Edit distance: 0
+
+
+Assumed location: challenge
+Actual location: Challenge
+Edit distance: 1
+
+
+--------------------------------------------------------------
+Classic Home Furniture Center
+
+
+Assumed location: Center
+Actual location: Canter
+Edit distance: 1
+
+
+Assumed location: Center
+Actual location: Center
+Edit distance: 0
+
+
+Assumed location: Center
+Actual location: Centex
+Edit distance: 1
+
+
+Assumed location: Center
+Actual location: Fenter
+Edit distance: 1
+
+
+Assumed location: Home
+Actual location: Home
+Edit distance: 0
+
+
+Assumed location: Center
+Actual location: Senter
+Edit distance: 1
+
+
+Assumed location: Center
+Actual location: Venter
+Edit distance: 1
+
+
+--------------------------------------------------------------
+Up to a73 downloads.... but yo, its FREE... so cop it and enjoy!  DJ ROC Old School Mix @ http://tinyurl.com/yhz4pfs
+
+
+Assumed location: Mix
+Actual location: Mix
+Edit distance: 0
+
+
+Assumed location: Old School
+Actual location: Ola School
+Edit distance: 1
+
+
+Assumed location: Old School
+Actual location: Olds School
+Edit distance: 1
+
+
+Assumed location: Old School
+Actual location: Ord School
+Edit distance: 1
+
+
+Assumed location: School
+Actual location: School
+Edit distance: 0
+
+

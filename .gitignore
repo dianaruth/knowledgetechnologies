@@ -1,0 +1,5 @@
+*.txt
+*.doc
+*.docx
+!xs_output.txt
+!small_output.txt
