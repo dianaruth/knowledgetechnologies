@@ -3,3 +3,6 @@
 *.docx
 !xs_output.txt
 !small_output.txt
+project2/*.arff
+project2/*.csv
+!project2/stats.txt
