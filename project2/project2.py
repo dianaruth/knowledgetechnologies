@@ -1,12 +1,8 @@
 import sys
 import numpy as np
 from sklearn.metrics import accuracy_score
-from sklearn.metrics import precision_score
-from sklearn.metrics import recall_score
-from sklearn.metrics import f1_score
-from sklearn.metrics import zero_one_loss
 from sklearn.neighbors import KNeighborsClassifier
-from sklearn import tree
+from sklearn.tree import DecisionTreeClassifier
 from sklearn.naive_bayes import GaussianNB
 
 def get_class(name) :
@@ -54,11 +50,12 @@ def parse_input(lines) :
         else :
             tokens = line.split(',')
             id = tokens[0]
-            ids.append(id.strip())
+            ids.append(int(id.strip()))
             answer = tokens[len(features) + 1]
-            answers.append(get_class(answer.strip()))
+            answers.append(int(get_class(answer.strip())))
             tokens.remove(id)
             tokens.remove(answer)
+            tokens = [int(t) for t in tokens]
             model.append(tokens)
     return features, ids, model, answers
 
@@ -67,11 +64,33 @@ def print_predictions(ids, results, f) :
         print(str(ids[i]) + " : " + str(get_name(results[i])), file=f)
 
 def print_stats(predicted, actual, f) :
-    print("Accuracy: " + str(accuracy_score(actual, predicted)), file=f)
-    print("Precision: " + str(precision_score(actual, predicted, average='weighted')), file=f)
-    print("Recall: " + str(recall_score(actual, predicted, average='weighted')), file=f)
-    print("Weighted F1 Score: " + str(f1_score(actual, predicted, average='weighted')), file=f)
-    print("Zero-One Loss: " + str(zero_one_loss(actual, predicted)), file=f)
+    # 2D array representing confusion matrix
+    stats = [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+    for i in range(0, len(actual)) :
+        p = int(predicted[i])
+        a = int(actual[i])
+        stats[p][a] = stats[p][a] + 1
+    # TP, FP, FN
+    stats2 = [[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0]]
+    # for each class
+    for i in range(0, 5) :
+        for j in range(0, 5) :
+            if i == j :
+                # true positive
+                stats2[i][0] = stats2[i][0] + stats[i][j]
+            else :
+                # false positive for i
+                stats2[i][1] = stats2[i][1] + stats[i][j]
+                # false negative for j
+                stats2[j][2] = stats2[j][2] + stats[i][j]
+    print("Accuracy: " + str(accuracy_score(actual, predicted)) + '\n', file=f)
+    for i in range(0, 5) :
+        precision = stats2[i][0]/(stats2[i][0] + stats2[i][1])
+        print("Precision - " + get_name(i) + ": " + str(precision), file=f)
+        recall = stats2[i][0]/(stats2[i][0] + stats2[i][2])
+        print("Recall - " + get_name(i) + ": " + str(recall), file=f)
+        f1_score = (2 * precision * recall)/(precision + recall)
+        print("F1 Score - " + get_name(i) + ": " + str(f1_score) + '\n', file=f)
 
 def print_for_kaggle(ids, results, f) :
     print("Id,Category", file=f)
@@ -132,7 +151,7 @@ def main() :
     # predict test data answers
     test_predicted_answers_1nn = []
     for m in test_model :
-        result = neighbors1.predict([m])
+        result = neighbors1.kneighbors([m])
         test_predicted_answers_1nn.append(result[0])
     print_predictions(test_ids, test_predicted_answers_1nn, predictions)
 
@@ -169,7 +188,7 @@ def main() :
     ###########################################################################
 
     # set up classifier
-    decision_tree = tree.DecisionTreeClassifier()
+    decision_tree = DecisionTreeClassifier()
     decision_tree = decision_tree.fit(train_model, train_answers)
 
     # predict development data answers and calculate statistics
@@ -191,42 +210,35 @@ def main() :
         result = decision_tree.predict([m])
         test_predicted_answers_decision_tree.append(result[0])
     print_predictions(test_ids, test_predicted_answers_decision_tree, predictions)
-    print_for_kaggle(test_ids, test_predicted_answers_decision_tree, kaggle)
 
     ###########################################################################
     # Naive Bayes
     ###########################################################################
 
     # set up classifier
-    # gnb = GaussianNB()
-    # train_model = np.array(train_model)
-    # train_answers = np.array(train_answers)
-    #train_model = np.asarray(train_model, dtype=float)
-    # print(type(train_model[0]))
-    # train_answers = np.asarray(train_answers, dtype=float)
-    # X = np.array([[-1, -1], [-2, -1], [-3, -2], [1, 1], [2, 1], [3, 2]])
-    # Y = np.array([1, 1, 1, 2, 2, 2])
-    # nb = gnb.fit(train_model, train_answers)
+    gnb = GaussianNB()
+    nb = gnb.fit(train_model, train_answers)
 
-    # # predict development data answers and calculate statistics
-    # dev_predicted_answers_nb = []
-    # for m in dev_model :
-    #     result = nb.predict([m])
-    #     dev_predicted_answers_nb.append(result[0])
-    # print("-------------------------------------------------------------------", file=stats)
-    # print("-------------------------------------------------------------------", file=predictions)
-    # print("Naive Bayes", file=stats)
-    # print("Naive Bayes", file=predictions)
-    # print("-------------------------------------------------------------------", file=stats)
-    # print("-------------------------------------------------------------------", file=predictions)
-    # print_stats(dev_predicted_answers_nb, dev_answers, stats)
-    #
-    # # predict test data answers
-    # test_predicted_answers_nb = []
-    # for m in test_model :
-    #     result = nb.predict([m])
-    #     test_predicted_answers_nb.append(result[0])
-    # print_predictions(test_ids, test_predicted_answers_nb, predictions)
+    # predict development data answers and calculate statistics
+    dev_predicted_answers_nb = []
+    for m in dev_model :
+        result = nb.predict([m])
+        dev_predicted_answers_nb.append(result[0])
+    print("-------------------------------------------------------------------", file=stats)
+    print("-------------------------------------------------------------------", file=predictions)
+    print("Naive Bayes", file=stats)
+    print("Naive Bayes", file=predictions)
+    print("-------------------------------------------------------------------", file=stats)
+    print("-------------------------------------------------------------------", file=predictions)
+    print_stats(dev_predicted_answers_nb, dev_answers, stats)
+
+    # predict test data answers
+    test_predicted_answers_nb = []
+    for m in test_model :
+        result = nb.predict([m])
+        test_predicted_answers_nb.append(result[0])
+    print_predictions(test_ids, test_predicted_answers_nb, predictions)
+    # print_for_kaggle(test_ids, test_predicted_answers_nb, kaggle)
 
     # close output files
     stats.close()
