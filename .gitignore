@@ -5,4 +5,5 @@
 !small_output.txt
 project2/*.arff
 project2/*.csv
-!project2/stats.txt
+!project2/stats-best35.txt
+!project2/stats-most100.txt

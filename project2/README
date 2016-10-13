@@ -1,0 +1,23 @@
+COMP30018 Knowledge Technologies
+Project 2
+Diana Ruth
+project2.py
+
+This software system implements three different machine learning algorithms to attempt to geolocate tweets from Twitter. The system uses the Scikit-Learn (http://scikit-learn.org/) machine learning package for Python. The KNearestNeighbors, DecisionTreeClassifier, and GaussianNB packages were used to implement these machine learning algorithms.
+
+Pseudocode:
+
+1. Create output files for statistics and predictions
+2. Parse the input (ARFF format) and divide it into models and answers for training data, development data, and test data
+3. Create 1-Nearest-Neighbors classifier and train it using the training model and training answers
+4. Calculate predictions for development data using the classifier
+5. Calculate accuracy, precision, recall, and F1 score for the predicted answers vs real answers for the development data and output these statistics
+6. Calculate predicted answers for test data and output these predictions
+7. Repeat steps 3-6 for 3-Nearest-Neighbors, Naive Bayes, and Decision Tree classifiers
+
+To run the program:
+
+$ python3 project2.py <training data>.arff <development data>.arff <test data>.arff
+
+NOTE: input files must be in ARFF format
+NOTE: Python3 must be used for the program to run correctly
